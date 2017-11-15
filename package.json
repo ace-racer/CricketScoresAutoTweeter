@@ -1,0 +1,15 @@
+{
+  "name": "ipltwitter-scores-updater",
+  "version": "0.0.0",
+  "description": "IPLTwitterScoresUpdater",
+  "main": "run.js",
+  "author": {
+    "name": "anchat",
+    "email": "anuragchatterjee92@gmail.com"
+  },
+  "dependencies": {
+    "node-cricapi": "^1.2.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.0"
+  }
+}
